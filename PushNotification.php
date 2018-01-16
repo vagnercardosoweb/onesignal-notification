@@ -1,5 +1,3 @@
-<?php
-
 /**
  * Class PushNotification
  *
@@ -20,7 +18,7 @@ class PushNotification
     /**
      * @var string
      */
-    protected $appUrl = 'https://onesignal.com/api/v1';
+     protected $appUrl = 'https://onesignal.com/api/v1';
 
     /**
      * @var array
